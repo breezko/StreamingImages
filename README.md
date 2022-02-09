@@ -8,6 +8,10 @@ Generates a Stream from Images (here screenshots) based on flask.
 
 ## Usage
 
+### Download
+
+Download [Releases](https://github.com/breezko/StreamingImages/releases) source code, unzip, navigate to root directory e.g `StreamingImages-1.0.0`, proceed with next step.
+
 ### Dependencies
 
 ```
