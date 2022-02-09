@@ -10,11 +10,15 @@ Generates a Stream from Images (here screenshots) based on flask.
 
 ### Dependencies
 
-`pip install -r requirements.txt`
+```
+pip install -r requirements.txt
+```
 
 ### Running
 
-`$ flask run`
+```
+flask run
+```
 
 ```
 * Environment: production
@@ -26,4 +30,6 @@ Generates a Stream from Images (here screenshots) based on flask.
 
 ### Address
 
-`http://127.0.0.1:5000/`
+```
+http://127.0.0.1:5000/
+```
