@@ -12,4 +12,4 @@ Generates a Stream from Images (here screenshots) based on flask.
 
 `python server.py`
 
-`http://192.168.178.100:5000/`
+`http://127.0.0.1:5000/`
